@@ -12,3 +12,4 @@ It will do the following:
 2. Create a temporary directory to work in.
 3. Run `RevertSam` with appropriate options to remove all mapping information.
 4. Copy the resulting file to a different storage location.
+5. this is the change i made
